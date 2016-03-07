@@ -1,0 +1,14 @@
+layout_spectrum: 0.08259451
+typography_spectrum: 0.1498389
+color:
+  saturation: 0.2829345
+  brandStrength: 0.7749732
+  lightness: 0.4094727
+  rhythmicContrast: 0.3195192
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: ebcomley
