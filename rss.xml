@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ebcomley]]></title>
         <description><![CDATA[ebcomley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ebcomley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 15:53:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 16:10:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ebcomley/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad9d2b6a-19b2-4f9d-954d-616ef6b01da6.jpg">]]></description>
-            <link>undefinedbd376b26-977d-4390-b1af-bf72fbab6748/index.html</link>
+            <link>https://thegrid.ai/ebcomley/bd376b26-977d-4390-b1af-bf72fbab6748/index.html</link>
             <guid isPermaLink="false">bd376b26-977d-4390-b1af-bf72fbab6748</guid>
-            <pubDate>Mon, 07 Mar 2016 15:53:17 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 16:10:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
