@@ -1,14 +1,28 @@
-layout_spectrum: 0.08259451
+name: ebcomley
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.1498389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2829345
-  brandStrength: 0.7749732
-  lightness: 0.4094727
-  rhythmicContrast: 0.3195192
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: ebcomley
+  brandStrength: 0.7749732
+  lightness: 0.4094727
+  saturation: 0.2829345
+  rhythmicContrast: 0.3195192
+purpose: []
